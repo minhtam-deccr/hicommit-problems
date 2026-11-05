@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-  int ket qua;
+  int ketqua;
   scanf("%d",&ketqua);
-  switch(ket qua) {
+  switch(ketqua) {
     case 1:
       printf("XEP_LOAI_XUAT_SAC");
       break;
@@ -16,8 +16,7 @@ int main() {
     case 4:
       printf("XEP_LOAI_TRUNG_BINH");
       break;
-    default:
-      printf("KHONG_HOP_LE");
+    default("KHONG_HOP_LE");
   }
   return 0;
 }
