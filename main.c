@@ -16,5 +16,5 @@ int main() {
     printf("HOC_BONG_KHA");}
   else
     printf("KHONG_DAT");
-  rertun 0;
+  return 0;
 }
