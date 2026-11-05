@@ -8,7 +8,7 @@ int main() {
   if(dtb >= 9.0&&drl >= 90 {
      printf("HOC_BONG_XUAT_SAC");
   }
-   else
+   else if(dtb8.0<=9.0&&(80 <= drl < 90||drl >= 90))
     
-
+  rertun 0;
 }
